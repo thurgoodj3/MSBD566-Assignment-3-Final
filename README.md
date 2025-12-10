@@ -1,5 +1,5 @@
 # MSBD566-Assignment-3/Final Project
-# MSBD566 – Midterm Project: Breast Cancer Classification (Random Forest)/Dimensionality Reduction and Neural Network
+# MSBD566 – Midterm/Final Project: Breast Cancer Classification (Random Forest)/Dimensionality Reduction and Neural Network
 
 **Author:** James Walton  
 **Course:** MSBD566 – Predictive Modeling and Analytics  
