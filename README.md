@@ -1,15 +1,16 @@
-# MSBD566-Assignment-3
-# MSBD566 – Midterm Project: Breast Cancer Classification (Random Forest)
+# MSBD566-Assignment-3/Final Project
+# MSBD566 – Midterm Project: Breast Cancer Classification (Random Forest)/Dimensionality Reduction and Neural Network
 
 **Author:** James Walton  
 **Course:** MSBD566 – Predictive Modeling and Analytics  
-**Date:** October 2025  
+**Date:** December 2025  
 
 ---
 
 ## Project Overview
-This project applies a **Random Forest Classifier** to the **Breast Cancer Wisconsin (Diagnostic)** dataset to **classify tumors as benign or malignant**.  
-The study highlights how machine learning can support **early detection** and **diagnostic decision-making** in healthcare.
+This project focuses on classifying breast cancer tumors as benign or malignant using diagnostic measurements collected from fine-needle aspirate (FNA) samples of breast tissue. Building on the previous analysis, which used a Random Forest Classifier, this extended study incorporates two additional approaches: a dimensionality reduction step using Principal Component Analysis (PCA) and a neural network model. The dataset used is the Breast Cancer Wisconsin (Diagnostic) dataset, which contains 30 numerical features describing the physical characteristics of cell nuclei captured from digitized medical images.
+
+The purpose of this expanded analysis is to compare how different modeling strategies handle the same diagnostic information and to evaluate whether reducing the number of features affects classification performance. Understanding how well these methods identify tumors that are likely to be malignant contributes to early detection efforts and may support clinical decision-making by highlighting consistent patterns in the underlying diagnostic measurements.
 
 ---
 
